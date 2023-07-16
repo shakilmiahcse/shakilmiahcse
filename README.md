@@ -1,0 +1,5 @@
+- 👋 Hi, I’m shakil miah
+- 👀 I’m interested in Developing web applications that solve real-world problems.
+- 🌱 I’m learning the Laravel PHP framework for building robust and scalable web applications.
+- 💞️ I’m looking to collaborate on Exciting web application projects that challenge my skills and knowledge.
+- 📫 How to reach me linkedin.com/in/shakil-miah-189b00246
